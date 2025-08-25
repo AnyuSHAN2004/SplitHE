@@ -10,7 +10,7 @@ I’m documenting and sharing the PCB work here in case it helps others, or if y
 ## What’s Inside
 - **altium files** → Altium 24.5.2 project files (schematics + PCB).  
   - These are the original source files.  
-- **Split_Int.pdf** → exported schematic PDF (for anyone without Altium).  
+- **SplitHE_Int.pdf** → exported schematic PDF (for anyone without Altium).  
 - **/images/** → reference screenshots (layout views, schematics highlights, close-ups of RP2040 circuitry).  
 
 ---
